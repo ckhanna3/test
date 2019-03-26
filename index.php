@@ -1,5 +1,6 @@
 <?php
-$_POST='dghs'
+$_POST='dghs';
+$a="sdsf";
 
 
 ?>
